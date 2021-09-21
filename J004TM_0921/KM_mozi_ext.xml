@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mozi>
+	<film id="txt_nxm_2jb" mufaj="horror">
+		<rendezo id="nzk_4xm_2jb" nev="alex"/>
+		<szinesz id="u5q_4xm_2jb" nev="Madison_Ivy"/>
+		<iro id="trv_4xm_2jb"/>
+		<producer id="pdc_4xm_2jb" nev="Endre"/>
+		<dramaturg id="drm_4xm_2jb" nev="Andras"/>
+		<operator id="op_4xm_2jb" nev="Marton"/>
+	</film>
+</mozi>

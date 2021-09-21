@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<konferencia>
+	<cim>A geológia alapjai</cim>
+	<hallgatok>
+		<hallgato nev="Mark" lakcim="3713"/>
+		<hallgato nev="Mihaly" lakcim="3520"/>
+	</hallgatok>
+	<helyszin>Miskolci Egyetem</helyszin>
+	<eloado>
+		<nev>Ottó</nev>
+		<adoszam>0123456789</adoszam>
+		<lakcim>3520</lakcim>
+	</eloado>
+	<datum>2022</datum>
+</konferencia>
