@@ -1,0 +1,47 @@
+body {
+	background-image: url("hatter.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+div    {color: white;}
+
+a:link{color: white;}
+a:visited{color:white;}
+
+img.building{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img.subject{
+	position:relative; 
+	width:35%;
+	float:right;
+}
+
+table{
+	font-size: 23px;
+	width:100%;
+}
+
+th{
+	width:33%;
+	text-align:center;
+	color: white;
+}
+
+div.strong{
+	font-size: 18px;
+	font-weight: bold;
+}
+
+div.title{
+	font-size: 26px;
+	font-weight: bold;
+}
+
+li{
+	color:white;
+}
