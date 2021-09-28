@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<orarend>
+	<ora id="001" tipus="eloadas">
+		<targy>Algoritmusok és vizsgálatuk</targy>
+		<idopont>
+			<nap>hetfo</nap>
+			<tol>8</tol>
+			<ig>10</ig>
+		</idopont>
+		<helyszin>A3 313</helyszin>
+		<oktato>Dr. Házy Attila</oktato>
+		<szak>PTI</szak>
+	</ora>
+	<ora id="002" tipus="gyakorlat">
+		<targy>Algoritmusok és vizsgálatuk</targy>
+		<idopont>
+			<nap>hetfo</nap>
+			<tol>10</tol>
+			<ig>12</ig>
+		</idopont>
+		<helyszin>A3 313</helyszin>
+		<oktato>Dr. Házy Attila</oktato>
+		<szak>PTI</szak>
+	</ora>
+	<ora id="003" tipus="eloadas">
+		<targy>WEB technológiák</targy>
+		<idopont>
+			<nap>hetfo</nap>
+			<tol>12</tol>
+			<ig>14</ig>
+		</idopont>
+		<helyszin>A1 305</helyszin>
+		<oktato>Agárdi Anita</oktato>
+		<szak>PTI</szak>
+	</ora>
+	<ora id="004" tipus="eloadas">
+		<targy>Mesterséges intelligencia alapjai</targy>
+		<idopont nap="hetfo" tol="14" ig="17"/>
+		<helyszin>A1 XXXII</helyszin>
+		<oktato>Dr. Dudás László</oktato>
+		<szak>PTI</szak>
+	</ora>
+	<ora id="005" tipus="eloadas">
+		<targy>Adatkezelés XML-ben</targy>
+		<idopont>
+			<nap>kedd</nap>
+			<tol>12</tol>
+			<ig>14</ig>
+		</idopont>
+		<helyszin>A2 I</helyszin>
+		<oktato>Dr. Bednarik László</oktato>
+		<szak>PTI</szak>
+	</ora>
+	<ora id="006" tipus="gyakorlat">
+		<targy>Adatkezelés XML-ben</targy>
+		<idopont>
+			<nap>kedd</nap>
+			<tol>14</tol>
+			<ig>16</ig>
+		</idopont>
+		<helyszin>In/103</helyszin>
+		<oktato>Dr. Bednarik László</oktato>
+		<szak>PTI</szak>
+	</ora>
+	<ora id="007" tipus="gyakorlat">
+		<targy>WEB technológiák</targy>
+		<idopont>
+			<nap>kedd</nap>
+			<tol>16</tol>
+			<ig>18</ig>
+		</idopont>
+		<helyszin>In/103</helyszin>
+		<oktato>Agárdi Anita</oktato>
+		<szak>PTI</szak>
+	</ora>
+	<ora id="008" tipus="gyakorlat">
+		<targy>Mesterséges intelligencia alapjai</targy>
+		<idopont>
+			<nap>szerda</nap>
+			<tol>11</tol>
+			<ig>12</ig>
+		</idopont>
+		<helyszin>In/15</helyszin>
+		<oktato>Dr. Dudás László</oktato>
+		<szak>PTI</szak>
+	</ora>
+	<ora id="009" tipus="eloadas">
+		<targy>Vállalati információs rendszerek</targy>
+		<idopont>
+			<nap>szerda</nap>
+			<tol>16</tol>
+			<ig>18</ig>
+		</idopont>
+		<helyszin>In/103</helyszin>
+		<oktato>Dr. Sasvári Péter</oktato>
+		<szak>PTI</szak>
+	</ora>
+	<ora id="010" tipus="gyakorlat">
+		<targy>Vállalati információs rendszerek</targy>
+		<idopont>
+			<nap>szerda</nap>
+			<tol>18</tol>
+			<ig>20</ig>
+		</idopont>
+		<helyszin>In/103</helyszin>
+		<oktato>Dr. Sasvári Péter</oktato>
+		<szak>PTI</szak>
+	</ora>
+</orarend>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE konyvek SYSTEM "konyv.dtd">
+
+<konyvek>
+	<konyv kod="01">
+		<cim>Bevezetés az informatikába</cim>
+		<kiadas>2007</kiadas>
+		<kiado>Libri</kiado>
+		<szerzo>Tóth Ottó</szerzo>
+	</konyv>
+	<konyv kod="02">
+		<cim>A JavaScript alapjai</cim>
+		<kiadas>2015</kiadas>
+		<kiado>Libri</kiado>
+		<szerzo>Havas Henrik</szerzo>
+	</konyv>
+	<konyv kod="03">
+		<cim>A JavaScript alapjai</cim>
+		<kiadas>2015</kiadas>
+		<kiado>Libri</kiado>
+		<szerzo>Havas Henrik</szerzo>
+	</konyv>
+</konyvek>
