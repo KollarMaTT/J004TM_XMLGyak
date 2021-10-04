@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT modell (A,B,C,A_B)>
+    <!ELEMENT A (Ab*,Ac)>
+        <!ATTLIST A Aa ID #REQUIRED>
+        <!ELEMENT Ab (Abx,Aby)>
+            <!ELEMENT Abx (#PCDATA)>
+            <!ELEMENT Aby (#PCDATA)>
+        <!ELEMENT Ac (Acd,Ace)>
+            <!ELEMENT Acd (#PCDATA)>
+            <!ELEMENT Ace (#PCDATA)>
+
+    <!ELEMENT B (Bb)>
+        <!ATTLIST B Ba ID #REQUIRED>
+        <!ATTLIST B B_C IDREF #IMPLIED>
+        <!ELEMENT Bb (Bbx,Bby)>
+            <!ELEMENT Bbx (#PCDATA)>
+            <!ELEMENT Bby (#PCDATA)>
+        
+    <!ELEMENT C (Cb)>
+        <!ATTLIST C Ca ID #REQUIRED>
+        <!ELEMENT Cb (#PCDATA)>
+
+    <!ELEMENT A_B (A_B_c)>
+        <!ATTLIST A_B A_B_A IDREF #IMPLIED>
+        <!ATTLIST A_B A_B_B IDREF #IMPLIED>
+        <!ELEMENT A_B_c (#PCDATA)>

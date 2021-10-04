@@ -9,3 +9,4 @@
 	<!ELEMENT kiado (#PCDATA)>
 	<!ELEMENT szerzo (#PCDATA)>
 	<!ELEMENT abstract (#PCDATA)>
+    
