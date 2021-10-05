@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<konyvek xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="KM_konyv.xsd">
+	<konyv kod="h1">
+		<cim>Bevezetés az informatikába</cim>
+		<kiadas>2007</kiadas>
+		<kiado>Libri</kiado>
+		<szerzo>Tóth Ottó</szerzo>
+		<abstract>Random</abstract>
+	</konyv>
+	<konyv kod="h2">
+		<cim>A JavaScript alapjai</cim>
+		<kiadas>2015</kiadas>
+		<kiado>Libri</kiado>
+		<szerzo>Havas Henrik</szerzo>
+		<szerzo>Tóth Ottó</szerzo>
+		<abstract>Random</abstract>
+	</konyv>
+	<konyv kod="h3">
+		<cim>A JavaScript alapjai</cim>
+		<kiadas>2015</kiadas>
+		<kiado>Libri</kiado>
+		<szerzo>Havas Henrik</szerzo>
+		<abstract>Random</abstract>
+	</konyv>
+</konyvek>
