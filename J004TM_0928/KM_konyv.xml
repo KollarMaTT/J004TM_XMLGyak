@@ -13,11 +13,13 @@
 		<kiadas>2015</kiadas>
 		<kiado>Libri</kiado>
 		<szerzo>Havas Henrik</szerzo>
+		<szerzo>Tóth Ottó</szerzo>
 	</konyv>
 	<konyv kod="h3">
 		<cim>A JavaScript alapjai</cim>
 		<kiadas>2015</kiadas>
 		<kiado>Libri</kiado>
 		<szerzo>Havas Henrik</szerzo>
+		<abstract>Random</abstract>
 	</konyv>
 </konyvek>
