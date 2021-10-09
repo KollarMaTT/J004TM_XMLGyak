@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://www.example.org/KM_dtdtoxml" elementFormDefault="qualified">
+    <xs:element name="modell">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="A" maxOccurs="unbounded">
+                    <xs:complexType mixed="true">
+                        <xs:sequence>
+                            <xs:element name="Ab">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="Abx"/>
+                                        <xs:element name="Aby"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="Ac">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="Acd" type="xs:string"/>
+                                        <xs:element name="Ace" type="xs:string"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                        <xs:attribute name="Aa" type="xs:string"/>
+                    </xs:complexType>
+                </xs:element>
+
+                <xs:element name="B" maxOccurs="unbounded">
+                    <xs:complexType mixed="true">
+                        <xs:sequence>
+                            <xs:element name="Bb">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="Bbx" type="xs:string"/>
+                                        <xs:element name="Bby" type="xs:string"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                        <xs:attribute name="Ba" type="xs:string"/>
+                        <xs:attribute name="B_C" type="xs:string"/>
+                    </xs:complexType>
+                </xs:element>
+
+                <xs:element name="C" maxOccurs="unbounded">
+                    <xs:complexType mixed="true">
+                        <xs:sequence>
+                            <xs:element name="Cb" type="xs:string"/>
+                        </xs:sequence>
+                        <xs:attribute name="Ca" type="xs:string"/>
+                    </xs:complexType>
+                </xs:element>
+
+                <xs:element name="A_B" maxOccurs="unbounded">
+                    <xs:complexType mixed="true">
+                        <xs:sequence>
+                            <xs:element name="A_B_c" type="xs:string"/>
+                        </xs:sequence>
+                        <xs:attribute name="A_B_A" type="xs:string"/>
+                        <xs:attribute name="A_B_B" type="xs:string"/>
+                    </xs:complexType>
+                </xs:element>
+                
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

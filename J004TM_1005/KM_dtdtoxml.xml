@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<modell xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="KM_ertoxsd.xsd">
+    <A Aa="id1">
+        <Ab>
+            <Abx>Random</Abx>
+            <Aby>Random</Aby>
+        </Ab>
+        <Ac>
+            <Acd>Random</Acd>
+            <Ace>Random</Ace>
+        </Ac>
+    </A>
+
+    <B Ba="id2" B_C="id4">
+        <Bb>
+            <Bbx>Random</Bbx>
+            <Bby>Random</Bby>
+        </Bb>
+    </B>
+
+    <C Ca="id4">
+        <Cb>Random</Cb>
+    </C>
+
+    <A_B A_B_A="id1" A_B_B="id2">
+        <A_B_c>Random</A_B_c>
+    </A_B>
+</modell>
