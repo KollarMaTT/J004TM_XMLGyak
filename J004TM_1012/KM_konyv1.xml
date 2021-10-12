@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<konyvek>
+	<konyv>
+		<cim>Harry Potter és a Főnix Rendje</cim>
+		<szerzo>Joanne Kathleen Rowling</szerzo>
+		<szereplo>
+			<nev>Harry Potter</nev>
+			<baratja>Ron Weasley</baratja>
+			<szuletett>1980.07.31.</szuletett>
+			<jellemzes>Ő a főszereplő.</jellemzes>
+		</szereplo>
+		<szereplo>
+			<nev>Ron Weasley</nev>
+			<szuletett>1980.03.01.</szuletett>
+			<jellemzes>Ő a főszereplő legjobb barátja.</jellemzes>
+		</szereplo>
+	</konyv>
+</konyvek>

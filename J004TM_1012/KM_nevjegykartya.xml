@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<nevjegykartyak xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="KM_nevjegykartya.xsd">
+	<nevjegykartya>
+		<nev>Kollár Máté</nev>
+		<ceg>
+			<nev>simpleSoft Kft.</nev>
+			<cim>
+				<iranyitoszam>3525</iranyitoszam>
+				<varos>Miskolc</varos>
+				<utca>Szentpáli</utca>
+				<hazszam>1</hazszam>
+			</cim>
+			<telefonszam>3646740640</telefonszam>
+			<weblap>https://simplesoft.hu</weblap>
+		</ceg>
+		<beosztas>Szoftverfejlesztő</beosztas>
+		<telefonszam>36207758108</telefonszam>
+		<email>kollarmatt@gmail.com</email>
+	</nevjegykartya>
+	
+	<nevjegykartya>
+		<nev>Kaskó Kamilla</nev>
+		<ceg>
+			<nev>simpleSoft Kft.</nev>
+			<cim>
+				<iranyitoszam>3525</iranyitoszam>
+				<varos>Miskolc</varos>
+				<utca>Szentpáli</utca>
+				<hazszam>1</hazszam>
+			</cim>
+			<telefonszam>3646740640</telefonszam>
+			<weblap>https://simplesoft.hu</weblap>
+		</ceg>
+		<beosztas>Titkárnő</beosztas>
+		<telefonszam>36306701037</telefonszam>
+		<email>kasko.kamilla@gmail.com</email>
+	</nevjegykartya>
+</nevjegykartyak>
