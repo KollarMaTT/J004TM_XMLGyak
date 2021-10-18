@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://www.example.org/KM_orarend1" elementFormDefault="qualified">
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://www.example.org/KM_konyv1" elementFormDefault="qualified">
 
+<xs:element name="konyvek">
+    <xs:complexType>
+        <xs:sequence>
+            <xs:element name="konyv" type="konyvTipus" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+</xs:element>
+
+<xs:complexType name="konyvTipus">
+    <xs:sequence>
+        <xs:element name="cim" type="xs:string"/>
+        <xs:element name="szerzo" type="xs:string"/>
+        <xs:element name="szereplo" type="szereploTipus" maxOccurs="unbounded"/>
+    </xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="szereploTipus">
+    <xs:sequence>
+        <xs:element name="nev" type="xs:string"/>
+        <xs:element name="baratja" type="xs:string" minOccurs="0"/>
+        <xs:element name="szuletett" type="xs:string"/>
+        <xs:element name="jellemzes" type="xs:string"/>
+    </xs:sequence>
+</xs:complexType>
 
 </xs:schema>

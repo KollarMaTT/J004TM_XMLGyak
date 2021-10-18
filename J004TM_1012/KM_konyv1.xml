@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<konyvek>
+<konyvek xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="KM_konyv1.xsd">
 	<konyv>
 		<cim>Harry Potter és a Főnix Rendje</cim>
 		<szerzo>Joanne Kathleen Rowling</szerzo>
