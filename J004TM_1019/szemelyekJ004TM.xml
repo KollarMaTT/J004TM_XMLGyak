@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- <!DOCTYPE konyvek SYSTEM "szemelyekJ004TM.dtd">  -->
+
+
+
+<szemelyek>
+	<szemely id="s1">
+		<nev>Kollár Máté</nev>
+		<kor>21</kor>
+		<varos>Arnót</varos>
+	</szemely>
+	
+	<szemely id="s2">
+		<nev>Ötlet Elek</nev>
+		<kor>23</kor>
+		<varos>Budapest</varos>
+	</szemely>
+	
+	<szemely id="s3">
+		<nev>Bordás Dávid</nev>
+		<kor>20</kor>
+		<varos>Miskolc</varos>
+	</szemely>
+</szemelyek>
