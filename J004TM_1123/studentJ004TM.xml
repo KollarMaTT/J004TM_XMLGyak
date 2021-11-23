@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- <?xml-stylesheet type="text/xsl" href="studentJ004TM_apply.xsl"?>-->
+<?xml-stylesheet type="text/xsl" href="studentJ004TM_choose.xsl"?>
+
+<class>
+	<student id="01">
+		<vezeteknev>Kollár</vezeteknev>
+		<keresztnev>Máté</keresztnev>
+		<becenev>Solma</becenev>
+		<kor>21</kor>
+		<fizetes>10000</fizetes>
+	</student>
+	
+	<student id="02">
+		<vezeteknev>Bordás</vezeteknev>
+		<keresztnev>Dávid</keresztnev>
+		<becenev>Dave</becenev>
+		<kor>20</kor>
+		<fizetes>75000</fizetes>
+	</student>
+	
+	<student id="03">
+		<vezeteknev>Szilágyi</vezeteknev>
+		<keresztnev>Marcell</keresztnev>
+		<becenev>Marc</becenev>
+		<kor>21</kor>
+		<fizetes>40000</fizetes>
+	</student>
+</class>

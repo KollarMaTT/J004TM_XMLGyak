@@ -1,0 +1,47 @@
+<html>
+<body>
+<h2>Hallgatok apply-temple</h2>
+	
+<p>
+  ID: <span style="color:#000000">01</span>
+<br>
+  Vezeteknev: <span style="color:#008000">Koll&aacute;r</span>
+<br>
+  Keresztnev: <span style="color:#CB7824">M&aacute;t&eacute;</span>
+<br>
+  Becenev: <span style="color:#2424CB">21</span>
+<br>
+  Fizetes: <span style="color:#ff0000">10000</span>
+<br>
+</p>
+	
+	
+<p>
+  ID: <span style="color:#000000">02</span>
+<br>
+  Vezeteknev: <span style="color:#008000">Bord&aacute;s</span>
+<br>
+  Keresztnev: <span style="color:#CB7824">D&aacute;vid</span>
+<br>
+  Becenev: <span style="color:#2424CB">20</span>
+<br>
+  Fizetes: <span style="color:#ff0000">75000</span>
+<br>
+</p>
+	
+	
+<p>
+  ID: <span style="color:#000000">03</span>
+<br>
+  Vezeteknev: <span style="color:#008000">Szil&aacute;gyi</span>
+<br>
+  Keresztnev: <span style="color:#CB7824">Marcell</span>
+<br>
+  Becenev: <span style="color:#2424CB">21</span>
+<br>
+  Fizetes: <span style="color:#ff0000">40000</span>
+<br>
+</p>
+
+</body>
+</html>
